@@ -1,0 +1,120 @@
+[
+    {
+      "message": "Color",
+      "data": [
+        {
+          "name": "Colorless",
+          "id": "0"
+        },
+        {
+          "name": "Gold",
+          "id": "2"
+        },
+        {
+          "name": "Silver",
+          "id": "3"
+        },
+        {
+          "name": "White",
+          "id": "4"
+        },
+        {
+          "name": "Greeen",
+          "id": "5"
+        },
+               {
+               "name": "Greeen1",
+               "id": "6"
+               },
+               {
+               "name": "Greeen2",
+               "id": "7"
+               },
+               {
+               "name": "Greeen3",
+               "id": "8"
+               },
+               {
+               "name": "Greeen4",
+               "id": "9"
+               },
+               {
+               "name": "Greeen5",
+               "id": "67"
+               },
+               {
+               "name": "Greeen6",
+               "id": "54"
+               },
+      ]
+    },
+    {
+      "data": [
+        {
+          "name": "Bangle",
+          "id": "28"
+        },
+        {
+          "name": "Diwali",
+          "id": "2"
+        },
+        {
+          "name": "Dasara new",
+          "id": "1"
+        },
+        {
+          "name": "Engagement",
+          "id": "17"
+        }
+      ],
+      "message": "Ocassion"
+    },
+    {
+      "data": [
+        {
+          "name": "Spring",
+          "id": "10"
+        },
+        {
+          "name": "Beaded",
+          "id": "20"
+        }
+      ],
+      "message": "Theme"
+    },
+    {
+      "data": [
+        {
+          "name": "Drop",
+          "id": "19"
+        }
+      ],
+      "message": "Design"
+    },
+    {
+      "message": "Jewellery materials",
+      "data": [
+        {
+          "name": "Gold",
+          "id": "1"
+        },
+        {
+          "name": "Diamond",
+          "id": "2"
+        },
+        {
+          "name": "Ruby",
+          "id": "3"
+        },
+        {
+          "name": "Silver",
+          "id": "4"
+        },
+        {
+          "name": "Alloy",
+          "id": "5"
+        }
+      ]
+    }
+  ]
+
